@@ -1,4 +1,15 @@
-_site
-.sass-cache
-.jekyll-metadata
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+*.iml
+misc.xml
+modules.xml
+vcs.xml
+.idea/
 Gemfile.lock
+.jekyll-metadata
