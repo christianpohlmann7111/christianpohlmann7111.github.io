@@ -1,7 +1,6 @@
 ---
 title: Example
 keywords: example
-last_updated: July 3, 2016
 datatable: true
 permalink: example.html
 sidebar: mydoc_sidebar
