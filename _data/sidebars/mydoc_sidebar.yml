@@ -1,0 +1,157 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: sidebar
+    product: Togglz
+    folders:
+      - title: Main
+        output: web
+        folderitems:
+
+          - title: Home
+            url: /index.html
+            output: web
+
+          - title: Downloads
+            url: /index.html
+            output: web
+
+          - title: Source Code
+            url: /index.html
+            output: web
+
+          - title: Forums
+            url: /index.html
+            output: web
+
+          - title: Gitter
+            url: /index.html
+            output: web
+
+          - title: Issue Tracker
+            url: /index.html
+            output: web
+
+          - title: stackoverflow.com
+            url: /index.html
+            output: web
+
+          - title: Continuous Integration
+            url: /index.html
+            output: web
+
+          - title: License
+            url: /index.html
+            output: web
+
+      - title: Reference
+        output: web, pdf
+        folderitems:
+
+          - title: What's new?
+            url: /index.html
+            output: web
+
+          - title: Getting Started
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.6.1.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.6.0.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.5.0.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.4.1.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.3.0.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.2.0.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.1.0.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 2.0.1.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 1.1.1.Final
+            url: /index.html
+            output: web
+
+          - title: Javadocs 1.0.0.Final
+            url: /index.html
+            output: web
+
+          - title: Updating Notes
+            url: /index.htmloutp
+            output: web
+
+      - title: Documentation
+        output: web, pdf
+        folderitems:
+
+        - title: Documentation
+          url: /index1.html
+          output: web
+
+        - title: Overview
+          url: /index1.html
+          output: web
+
+        - title: Installation
+          url: /index1.html
+          output: web
+
+        - title: Configuration
+          url: /index1.html
+          output: web
+
+        - title: Usage
+          url: /index1.html
+          output: web
+
+        - title: Admin Console
+          url: /index1.html
+          output: web
+
+        - title: Activation Strategies
+          url: /index1.html
+          output: web
+
+        - title: State Repositories
+          url: /index1.html
+          output: web
+
+        - title: User Authentication
+          url: /index1.html
+          output: web
+
+        - title: Feature Groups
+          url: /index1.html
+          output: web
+
+        - title: Advanced Configuration
+          url: /index1.html
+          output: web
+
+        - title: Testing Support
+          url: /index1.html
+          output: web
+
+        - title: Spring Boot Starter
+          url: /index1.html
+          output: web
