@@ -49,7 +49,7 @@ entries:
         folderitems:
 
           - title: What's new?
-            url: /index.html
+            url: /news.html
             output: web
 
           - title: Getting Started
@@ -97,7 +97,7 @@ entries:
             output: web
 
           - title: Updating Notes
-            url: /index.htmloutp
+            url: /updating_notes.html
             output: web
 
       - title: Documentation
