@@ -2,7 +2,6 @@
 title: Updating Notes
 keywords: updating
 permalink: updating_notes.html
-sidebar: mydoc_sidebar
 ---
 This page contains some notes on updating Togglz to newer versions. Although we aim to keep backwards compatibility with older version, in some cases it may be necessary to take care of something when updating. So please have a look at the sections on this page before updating.
 

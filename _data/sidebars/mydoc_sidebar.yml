@@ -53,7 +53,7 @@ entries:
             output: web
 
           - title: Getting Started
-            url: /index.html
+            url: /quickstart.html
             output: web
 
           - title: Javadocs 2.6.1.Final
